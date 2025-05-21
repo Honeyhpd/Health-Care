@@ -17,7 +17,7 @@ The Figma prototype includes the following key features:
 
 You can view the live prototype and design details using the link below:
 
-**[View Figma Design]([https://www.figma.com/design/AvNCPx50j1MFn653fRayyj/Health_Care?node-id=71-582&t=AcsmqVqrwqDIRcVe-0])**
+**[View Figma Design](https://www.figma.com/design/AvNCPx50j1MFn653fRayyj/Health_Care?node-id=71-582&t=AcsmqVqrwqDIRcVe-0)**
 
 
 
