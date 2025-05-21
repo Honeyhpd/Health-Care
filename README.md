@@ -19,7 +19,7 @@ You can view the live prototype and design details using the link below:
 
 **[View Figma Design]([https://www.figma.com/file/YOUR-FIGMA-LINK-HERE](https://www.figma.com/design/AvNCPx50j1MFn653fRayyj/Health_Care?node-id=71-582&t=AcsmqVqrwqDIRcVe-0))**
 
-> Ensure the Figma link is set to “Anyone with the link” for public access.
+
 
 ### Design Assets
 
